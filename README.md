@@ -4,7 +4,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <video src="assets/ai-artwork-video.mp4" width="500" autoplay loop muted></video>
 </div>
 
 ## 🚀 About Me
@@ -42,7 +42,7 @@ I'm a second-year **Computer Science & Engineering** student at **Arya College o
 
 ## 📚 Featured Projects
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <video src="assets/ai-artwork-video.mp4" width="500" autoplay loop muted></video>
 </div>
 
 - 🌐 **Cloud Resume Website** — Static portfolio hosted using cloud storage & CDN  
