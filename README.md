@@ -50,7 +50,6 @@ I am a Computer Science and Engineering student with a strong drive to build sol
 ### 📂 Featured Projects & Research
 
 * 📈 **Time Series Forecasting:** Developed and optimized predictive models using Machine Learning and Deep Learning techniques. (Presented Research Paper).
-* 🌍 **Eco-Credit-Nexus:** Contributed to an AI multi-agent platform designed for sustainable credit evaluation. 
 * 🧠 **Neural Network Implementations:** Hands-on projects building and tuning complex architectures.
 
 ---
