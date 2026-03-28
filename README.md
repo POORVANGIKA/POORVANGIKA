@@ -11,30 +11,30 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-I’m a CSE student passionate about building intelligent systems and solving real-world problems using AI.  
-I enjoy breaking down complex ideas and turning them into clean, scalable implementations.
+I’m a Computer Science and Engineering student passionate about building intelligent systems and solving real-world problems using AI.
 
-- 🔭 **Currently exploring:** RNNs, LSTMs, GRUs & Transformer-based architectures  
-- 🌱 **Learning:** DBMS, DCCN, TOC, & Microprocessor Interfaces  
-- 🤝 **Open to collaborate on:** AI/ML projects, time-series modelling & Web3/Solana ideas  
-- 💬 **Ask me about:** Deep Learning, Python, C++, Time Series Forecasting  
+- 🔭 **Currently exploring:** RNNs, LSTMs, GRUs & Transformer architectures  
+- 🌱 **Learning:** DBMS, DCCN, TOC & Microprocessor Interfaces  
+- 🤝 **Open to collaborate on:** AI/ML projects, time-series modelling, Web3/Solana  
+- 💬 **Ask me about:** Python, Deep Learning, Time Series Forecasting, C++  
 - 📫 **Reach me at:** **poorvangikakanwar@gmail.com**
 
 ---
 
-### 💻 Tech Stack & Tools  
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="35">
+## 💻 Tech Stack & Tools
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-**AI, ML & Data Science**
+<div align="center">
+  <table style="display: block;">
+    <tr>
+      <td valign="top" width="60%">
+        <div style="text-align: center; margin-bottom: 10px;">
+          <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="110">
+        </div>
+        <div style="text-align: left;">
+          
+### 🔹 AI, ML & Data Science
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -42,31 +42,52 @@ I enjoy breaking down complex ideas and turning them into clean, scalable implem
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 </p>
 
-**Development & Version Control**
+---
+
+### 🔹 Development & Version Control
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
+        </div>
+      </td>
+
+      <td width="5%"></td>
+
+      <td valign="top" width="35%">
+        <div style="text-align: left;">
+          
+### 🔹 Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 📂 Featured Projects
+## 📂 Featured Projects
 
-- 📈 **DQN-Based Financial Trading Agent**  
-  Built a reinforcement learning agent for automated trading decisions.
+### 📈 DQN-Based Financial Trading Agent  
+Reinforcement learning agent that makes automated trading decisions based on market patterns.
 
-- 🤖 **Customer Support Automation AI**  
-  Designed an AI solution for automated support ticket classification.
+### 🤖 Customer Support Automation AI  
+AI model for intelligent support ticket classification and response automation.
 
-- 🧠 **Time Series Forecasting Research**  
-  Applied ML & DL techniques for predictive analytics. *(Research Presented)*
+### 🧠 Time Series Forecasting Research  
+Built ML & DL forecasting models; presented as part of research work.
 
-- 💡 **Daily DSA Practice**  
-  Consistent problem-solving in C++ to strengthen fundamentals.
+### 💡 Daily DSA Practice  
+Consistent problem-solving in C++ to sharpen fundamental skills.
 
 ---
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=POORVANGIKA&theme=tokyonight&hide_border=true" />
@@ -81,7 +102,7 @@ I enjoy breaking down complex ideas and turning them into clean, scalable implem
 
 ---
 
-### 🎀 Connect With Me
+## 🎀 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/poorvangika-kanwar-91669327b/">
