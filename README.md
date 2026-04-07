@@ -3,7 +3,7 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Time+Series+Researcher;DSA+|+Competitive+Coding+Explorer;CS+Fundamentals+|+System-Level+Thinker+" />
 </div>
-
+ 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="420">
   <p><i>"Consistency + Curiosity = Growth"</i> ✨</p> 
