@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Poorvangika! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
-
+ 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;AI+%26+Machine+Learning+Enthusiast;Time+Series+Researcher;DSA+|+Competitive+Coding+Explorer;CS+Fundamentals+|+System-Level+Thinker+" />
 </div> 
  
